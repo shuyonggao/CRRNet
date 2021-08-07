@@ -50,7 +50,23 @@ python utils.py
 
 ```
 ### Thanks
+```
+@inproceedings{ldf,
+  author    = {J. {Wei} and S. {Wang} and Z. {Wu} and C. {Su} and Q. {Huang} and Q. {Tian}},
+  title     = {F{\({^3}\)}Net: Fusion, Feedback and Focus for Salient Object Detection},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages     = {13022-13031},
+  year      = {2020},
+}
 
+@inproceedings{f3net,
+  author    = {Jun Wei and Shuhui Wang and Qingming Huang},
+  title     = {F{\({^3}\)}Net: Fusion, Feedback and Focus for Salient Object Detection},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  pages     = {12321--12328},
+  year      = {2020},
+}
+```
 
 
 
