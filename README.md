@@ -1,4 +1,4 @@
-## [ Salient Object Detection](http://)
+## [CRRNet:Channel Relation Reasoning network for Salient Object Detection](http://)
 
 code for paper, “CRRNet:Channel Relation Reasoning network for Salient Object Detection”
 by Shuyong Gao, Wei Zhang, Hong Lu, Yan Wang, Qianyu Guo, Wenqiang Zhang
